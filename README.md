@@ -79,7 +79,6 @@ Understanding POM deeply
 
 Working with workflows and multiple pages
 
-Preparing real interview-style test cases
 
 Author
 
@@ -87,4 +86,4 @@ Maaz Khan
 Automation Test Engineer
 Email: maazkhanm9@gmail.com
 
-If you want, I can also be contacted for the same
+If you want, I can also be contacted for the same to the review of this script
